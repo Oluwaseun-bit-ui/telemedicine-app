@@ -33,7 +33,7 @@ telemedicine-app-alx/
 └── future-code/         # Placeholder for future frontend/backend code
 ```
 
-## 📸 Screenshots
+## 📸 Wireframe Screenshot
 https://drive.google.com/file/d/1cnuknm5fygZc-Kn_K4YKcOYZODF8WKKn/view?usp=sharing
 
 ## Project prsentation slides
