@@ -1,6 +1,6 @@
 # Telemedicine App (Concept Stage)
 
-A concept wireframe and presentation for a **telehealth solution**, developed during the ALX Software Engineering program. This project focuses on improving healthcare accessibility through technology.
+A concept wireframe and presentation for a **telehealth solution**, This project focuses on improving healthcare accessibility through technology.
 
 ## 🌟 Project Overview
 This Telemedicine App aims to connect patients with healthcare professionals remotely, providing features like appointment scheduling, patient history tracking, and video consultations.
@@ -25,7 +25,7 @@ This Telemedicine App aims to connect patients with healthcare professionals rem
 
 ## 📁 Project Structure (Planned)
 ```
-telemedicine-app-alx/
+telemedicine-app/
 │
 ├── docs/                # Presentation slides and wireframes
 ├── README.md            # Project overview and documentation
@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1cnuknm5fygZc-Kn_K4YKcOYZODF8WKKn/view?usp=shari
 https://drive.google.com/file/d/16nCp57MerFhLQ6nRIjepfOYt3z65CdOA/view?usp=sharing
 
 ## 📍 Repo Link
-[GitHub Repository](https://github.com/Oluwaseun-bit-ui/telemedicine-app-alx)
+[GitHub Repository](https://github.com/Oluwaseun-bit-ui/telemedicine-app)
 
 ## 🙌 Contributors
 - Oluwaseun Taiwo
