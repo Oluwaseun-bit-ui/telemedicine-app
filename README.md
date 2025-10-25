@@ -36,7 +36,7 @@ telemedicine-app/
 ## 📸 Wireframe Screenshot
 https://drive.google.com/file/d/1cnuknm5fygZc-Kn_K4YKcOYZODF8WKKn/view?usp=sharing
 
-## Project prsentation slides
+## Project presentation slides
 https://drive.google.com/file/d/16nCp57MerFhLQ6nRIjepfOYt3z65CdOA/view?usp=sharing
 
 ## 📍 Repo Link
